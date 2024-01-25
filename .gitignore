@@ -1,4 +1,5 @@
 # Ignore .venv
 .python3.6_venv/
-.venv3.6/
+.myenv36/
+
 
